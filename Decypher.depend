@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516476151 source:e:\cplusplus\decypher\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+
